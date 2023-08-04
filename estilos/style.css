@@ -26,7 +26,7 @@ section {
 	transform: translate(-50%, -50%);
 
 	height: 512px;
-	width: 280px;
+	width: 260px;
 	background: white;
 	margin: auto;
 	padding: 10px;
@@ -36,6 +36,26 @@ section {
 #imagem {
 	background: url(../imagens/metal.jpg) center left/cover;
 	height: 40%;
-	margin: -10px -10px 0px -10px;
+	margin: -10px -10px 10px -10px;
 	border-radius: 10px 10px 0px 0px ;
+}
+
+#formulario h1 {
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+
+#formulario p {
+	margin-bottom: 10px;
+}
+
+#formulario #div-email {
+	background: #5f2c82;
+	padding: 3px 3px 3px 60px;
+	margin: 10px 0;
+}
+
+#div-email #email {
+	background: #94cfcd;
 }
