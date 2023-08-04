@@ -25,7 +25,7 @@ section {
 	left: 50%;
 	transform: translate(-50%, -50%);
 
-	height: 512px;
+	height: 515px;
 	width: 260px;
 	background: white;
 	margin: auto;
@@ -56,7 +56,7 @@ section {
   position: relative;
   background: #5f2c82;
   text-align: right;
-  padding: 4px 4px 0 0;
+  padding: 4px 4px 1px 0;
   margin-bottom: 5px;
   border-radius: 8px;
 }
@@ -64,7 +64,7 @@ section {
 .data input {
   border-radius: 8px;
   height: 40px;
-  background: #9ad5d4fe;
+  background: #99d4d4;
   border: 0px;
   text-indent: 5px;
 }
@@ -72,7 +72,7 @@ section {
 span {
   position: absolute;
   top: 50%;
-  left: 10px;
+  left: 20px;
   transform: translateY(-50%);
   color: white;
 }
@@ -86,17 +86,33 @@ span {
   border: 0;
   width: 100%;
   height: 50px;
-  background: #48a7a5fe;
+  line-height: 30px;
+  background: #53aaa7;
+}
+
+.btn:hover {
+	cursor: pointer;
 }
 
 #enter {
   color: white;
 }
 
+#enter:hover {
+	background: #327e7c;
+}
+
 #forgot {
   background: white;
   border: 1px solid #48a7a5fe;
-  color: #347d7bfe;
+  color: #2d6462;
+  text-decoration: none;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+#forgot:hover {
+	background: #6cd3cf;
 }
 
 input::placeholder {
