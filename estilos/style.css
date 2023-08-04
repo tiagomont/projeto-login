@@ -70,6 +70,12 @@ section {
   width: 80%;
 }
 
+.data input:focus {
+	background: white;
+	border: 2px solid black;
+	outline: 1px solid white;
+}
+
 span {
   position: absolute;
   top: 50%;

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 1022px) {
+	main {
+		position: relative;
+		background-image: linear-gradient(to bottom, #5e2c82, #49a09d);
+	}
+
+	section {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+
+		margin: auto;
+		width: 80vw;
+		height: 300px;
+	}
+
+	section h1{
+		margin-left: 30%;
+		width: 70%;
+	}
+
+	section p {
+		margin-left: 30%;
+		width: 70%;
+		font-size: ;
+	}
+
+	#imagem {
+		position: absolute;
+		left: 0px;
+		width: 30%;
+		height: 100%;
+	}
+
+	.data {
+	    width: 70%;
+	    margin-left: 30%;
+	}
+
+	.data input {
+		width: 90%;
+	}
+
+	.btn {
+		margin-left: 30%;
+		width: 70%;
+	}
+}
