@@ -32,3 +32,10 @@ section {
 	padding: 10px;
 	border-radius: 10px;
 }
+
+#imagem {
+	background: url(../imagens/metal.jpg) center left/cover;
+	height: 40%;
+	margin: -10px -10px 0px -10px;
+	border-radius: 10px 10px 0px 0px ;
+}
