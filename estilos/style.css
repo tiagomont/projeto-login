@@ -32,6 +32,8 @@ section {
 	padding: 10px;
 	border-radius: 10px;
 	box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.490);
+	transition: 0.3s;
+
 }
 
 #imagem {
