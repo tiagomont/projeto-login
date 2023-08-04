@@ -35,7 +35,7 @@ section {
 }
 
 #imagem {
-	background: url(../imagens/metal.jpg) center left/cover;
+	background: url(../imagens/metal.jpg) bottom left/cover;
 	height: 40%;
 	margin: -10px -10px 10px -10px;
 	border-radius: 10px 10px 0px 0px ;

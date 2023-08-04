@@ -3,6 +3,7 @@
 @media screen and (min-width: 768px) and (max-width: 1022px) {
 	main {
 		background-image: linear-gradient(to bottom, #5e2c82, #49a09d);
+		background-position: center left;
 	}
 
 	section {
