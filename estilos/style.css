@@ -82,8 +82,8 @@ span {
   position: absolute;
   top: 50%;
   left: 10px;
-  transform: translateY(-50%);
   color: white;
+  transform: translateY(-50%);
 }
 
 .btn {
