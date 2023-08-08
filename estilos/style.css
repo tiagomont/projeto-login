@@ -75,7 +75,7 @@ section {
 
 .data input:focus {
 	background: white;
-	border: 2px solid black;
+	border: 1px solid black;
 	outline: 1px solid white;
 }
 
