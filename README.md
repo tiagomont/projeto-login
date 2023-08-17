@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Login" src="imagens/projeto-login-page.png" width="100%">
+  <img alt="Projeto Login" src="imagens/projeto-login-page.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
